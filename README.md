@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<br><br>
+<img src="https://profile-counter.glitch.me/iamnamananand996/count.svg" alt="hit counter" align="center">
+
 <!--
 **iamnamananand996/iamnamananand996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
