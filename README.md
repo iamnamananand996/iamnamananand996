@@ -83,3 +83,5 @@ I’m always eager to collaborate on exciting projects that push boundaries. Fee
 ---
 
 Thanks for visiting my profile! 🚀
+<br>
+<img src="https://github.com/user-attachments/assets/f4a506ae-9965-495e-8096-5f772003b61c" alt="QR" width="150" height="150">
