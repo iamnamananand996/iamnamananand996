@@ -1,22 +1,12 @@
 # Hello, I am Naman Anand 👋
 
-I **transform lines of code into meaningful, impactful solutions** that drive **user satisfaction** and **enhance productivity**.
+🚀 I turn lines of code into clean, scalable, and impactful solutions that elevate user experience and drive efficiency.
 
+🛠️ Passionate about building elegant, high-performance frontend apps-micro-frontends, design systems, and intuitive UIs are my playground. From reducing bundle sizes by 90% to integrating cutting-edge AI, I engineer interfaces that are both beautiful and robust.
 
+🌐 Projects range from global finance platforms to user-first interactive portals. Now diving deep into decentralized infrastructure and Autonomys Agents.
 
-My work revolves around **architecting robust, scalable, and aesthetically pleasing frontend applications**, blending **creativity** with **advanced problem-solving skills** to produce **top-quality software**.
-
-
-
-With a **passion for elegant design** and **optimized performance**, I've built systems that handle **complex functionalities** while maintaining a **user-friendly interface**. Whether it's **reducing build sizes by over 90%**, **crafting intuitive design systems from scratch**, or **integrating cutting-edge AI features**, I constantly strive to bring **innovation** and **efficiency** to every project I work on.
-
-
-
-I'm passionate about building **frontend applications** that don't just work but **work exceptionally well**—bridging the gap between **beautiful UI** and **efficient engineering**. My experience ranges from micro-frontend architecture for global finance platforms to creating interactive portals for thousands of users.
-
-
-
-I thrive in environments where **collaboration** and **innovation** come together, and I am driven by the challenge of **solving intricate problems**, **optimizing systems**, and **delivering products** that truly make a **difference**.
+ 👨‍💻 I thrive in environments where collaboration and innovation come together. I am driven by the challenge of solving intricate problems, optimizing systems, and delivering products that truly make a difference.
 
 ---
 
