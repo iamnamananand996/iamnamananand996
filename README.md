@@ -31,6 +31,7 @@ I’m always eager to collaborate on exciting projects that push boundaries. Fee
 - 🌍 GitHub: [iamnamananand996](https://github.com/iamnamananand996)
 - 💼 LinkedIn: [Naman Anand](https://in.linkedin.com/in/naman-anand-033a39150)
 - 🐦 Twitter: [@naman\_ananddd](https://twitter.com/naman_ananddd)
+- 📆 Let's chat: [cal.com/naman-anand](https://cal.com/naman-anand) 
 
 ---
 
