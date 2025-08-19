@@ -1,12 +1,12 @@
 # Hello, I am Naman Anand 👋
 
-🚀 I turn lines of code into clean, scalable, and impactful solutions that elevate user experience and drive efficiency.
+🚀 I craft clean, scalable, and impactful software solutions—turning complex ideas into robust systems that elevate user experience and drive efficiency.
 
-🛠️ Passionate about building elegant, high-performance frontend and micro-frontends, design systems, and intuitive UIs are my playground. From reducing bundle sizes by 90% to integrating cutting-edge AI, I engineer interfaces that are both beautiful and robust.
+🦀 With a growing edge in Rust engineering, I thrive at the intersection of high-performance backend systems and elegant frontend architectures. Whether it’s building micro-frontends, design systems, or low-latency services in Rust, I engineer products that are fast, reliable, and future-proof. From reducing bundle sizes by 90% to integrating cutting-edge AI, I ensure every line of code delivers maximum value.
 
-🌐 Projects range from global finance platforms to user-first interactive portals. Now diving deep into decentralized infrastructure and Autonomys Agents.
+🌐 My projects span global finance platforms, decentralized infrastructure, and Autonomys Agents, where performance and security are non-negotiable. I love working across the stack—optimizing systems, solving intricate problems, and bridging frontend polish with backend power.
 
- 👨‍💻 I thrive in environments where collaboration and innovation come together. I am driven by the challenge of solving intricate problems, optimizing systems, and delivering products that truly make a difference.
+👨‍💻 I thrive in teams where collaboration meets innovation, and I’m driven to ship products that aren’t just functional, but transformative.
 
 ---
 
@@ -14,7 +14,7 @@
 
 | **Category**               | **Tech Stack**                                                                                                                                                                                                                                                                    |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Programming Language       | ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript\&logoColor=fff)   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript\&logoColor=000)   ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust\&logoColor=fff)       |
+| Programming Language       | ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust\&logoColor=fff)  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript\&logoColor=fff)                                                                                                        |
 | Frontend Developmnent      | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react\&logoColor=fff)   ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs\&logoColor=fff)   ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwind-css\&logoColor=fff)       |
 | Backend & APIs             | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql\&logoColor=fff)   ![REST](https://img.shields.io/badge/-REST%20API-0052CC?logo=postman\&logoColor=fff)                                                                                                       |
 | State Mangemnent           | ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux\&logoColor=fff)   ![Apollo](https://img.shields.io/badge/-Apollo%20Client-311C87?logo=apollographql\&logoColor=fff)   ![Zustand](https://img.shields.io/badge/-Zustand-EA4AAA?logo=none\&logoColor=fff)            |
