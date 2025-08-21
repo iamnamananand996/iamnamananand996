@@ -26,15 +26,3 @@
 
 ### 🤝 Let's Connect
 I’m always eager to collaborate on exciting projects that push boundaries. Feel free to check out my repositories or reach out to me if you’re interested in working together!
-- 🌐 Portfolio: [naman-anand.com](http://naman-anand.com)
-- 📧 Email: [iamnamananand996@gmail.com](mailto\:iamnamananand996@gmail.com)
-- 🌍 GitHub: [iamnamananand996](https://github.com/iamnamananand996)
-- 💼 LinkedIn: [Naman Anand](https://in.linkedin.com/in/naman-anand-033a39150)
-- 🐦 Twitter: [@naman\_ananddd](https://twitter.com/naman_ananddd)
-- 📆 Let's chat: [cal.com/naman-anand](https://cal.com/naman-anand) 
-
----
-
-Thanks for visiting my profile! 🚀
-<br>
-<img src="https://github.com/user-attachments/assets/f4a506ae-9965-495e-8096-5f772003b61c" alt="QR" width="150" height="150">
